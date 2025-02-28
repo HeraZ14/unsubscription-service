@@ -1,0 +1,6 @@
+@UnsubscribeService_HostAddress = http://localhost:5125
+
+GET {{UnsubscribeService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
